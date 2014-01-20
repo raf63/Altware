@@ -1,0 +1,33 @@
+/* 
+    Created on : 20-gen-2014, 16.49.46
+    Author     : Andrea
+*/
+
+body{
+    background-color: black;
+}
+
+DIV#contentet{
+    width: 1200px;
+    margin: auto;
+    min-height: 900px;  
+}
+/*
+*Header della pagina
+*/
+
+div.header{
+    background-image:url('../IMG/head-img.png');
+    background-size: 1200px auto;
+    width: 1200px;
+    height: 300px;
+}
+
+img#Logo{
+
+    margin-top: 7%;  
+    margin-left: 12%;
+    width: 350px;
+    height: auto;
+}
+
