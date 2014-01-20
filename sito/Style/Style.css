@@ -10,9 +10,12 @@ body{
 
 
 DIV#contentet{
+    margin-top: 1%;
+    color: white;
+    text-align: center;
     width: 1200px;
     margin: auto;
-    min-height: 700px; 
+    min-height: 500px; 
 
 }
 /*
@@ -29,20 +32,16 @@ div.header{
 img#Logo{
 
     margin-top: 7%;  
-    margin-left: 12%;
     width: 350px;
     height: auto;
 }
 
 
 #Foot{
-    bottom: 0px;
-    top: 100%;
-    margin-top: 100%;
+
     position: relative;
     color: #FFF;
     text-align: center;
 }
-
 
 
