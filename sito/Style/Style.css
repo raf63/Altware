@@ -5,12 +5,15 @@
 
 body{
     background-color: black;
+    font-family: sans-serif;
 }
+
 
 DIV#contentet{
     width: 1200px;
     margin: auto;
-    min-height: 900px;  
+    min-height: 700px; 
+
 }
 /*
 *Header della pagina
@@ -30,4 +33,16 @@ img#Logo{
     width: 350px;
     height: auto;
 }
+
+
+#Foot{
+    bottom: 0px;
+    top: 100%;
+    margin-top: 100%;
+    position: relative;
+    color: #FFF;
+    text-align: center;
+}
+
+
 
