@@ -1,0 +1,15 @@
+/* 
+    Created on : 21-gen-2014, 17.20.23
+    Author     : Andrea
+*/
+
+table.index{
+    width: 70%;
+    border: 1px white;
+    margin: 1px;
+    margin: auto;
+    padding: 10px;
+}
+.index tr{
+    padding: 10px; 
+}

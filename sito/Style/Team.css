@@ -1,0 +1,28 @@
+
+/* 
+    Created on : 21-gen-2014, 15.18.17
+    Author     : Andrea
+*/
+.team #Immagine{
+    width: 900px;
+    height: auto;
+}
+div.team{
+    text-align: center;
+    
+}
+
+.team table{
+    padding: 3px;
+    margin: auto;
+}
+.team td{
+    margin-left: 5px;
+}
+
+.descrizione h2{
+    color: red;
+}
+.descrizione{
+    text-align: left;
+}

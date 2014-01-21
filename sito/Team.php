@@ -7,7 +7,7 @@ include_once './HTML/LanguageDetect.php';
  * Title of page
  */
 $TITLE = $LANGUAGE_TITLE_INDEX; //Title
-$HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css">'; //Other element that must be add in the head of the Document.
+$HEAD  = '        <link href="Style/Team.css" rel="stylesheet" type="text/css">'; //Other element that must be add in the head of the Document.
 ?>
 <!DOCTYPE html>
 <html>
@@ -24,9 +24,15 @@ $HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css">'; //Othe
 
             </div>
 
+           
             <div id="Main">
-            <?php include_once './Views/index.php';?>
+              <!-- MAin part -->
+                <?php include_once './Views/Team.php';?>
+                
             </div>
+
+
+
 
 
         </div>

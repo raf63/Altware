@@ -6,7 +6,7 @@
 
         <div class="MenuButtonImgCover">
 
-            <a href="#"><img ID="Animazione" src="./IMG/arrow.gif"/></a>
+            <a href="./Email.php"><img ID="Animazione" src="./IMG/HUDarrow.png"/></a>
 
         </div>
 
@@ -20,7 +20,7 @@
 
         <div class="MenuButtonImgCover">
 
-            <a href="#"><img ID="Animazione" src="./IMG/arrow.gif"/></a>
+            <a href="./Team.php"><img ID="Animazione" src="./IMG/HUDarrow.png"/></a>
 
         </div>
 
@@ -33,7 +33,7 @@
 
         <div class="MenuButtonImgCover">
 
-            <a href="#"><img ID="Animazione" src="./IMG/arrow.gif"/></a>
+            <a href="./index.php"><img ID="Animazione" src="./IMG/HUDarrow.png"/></a>
 
         </div>
 

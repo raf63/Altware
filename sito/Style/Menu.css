@@ -9,6 +9,10 @@ DIV#Menu{
     float: right;
     height: 100%;
 }
+
+/*
+Code for MENU Colum BLACK
+*/
 .MenuButton{
     font-size: 60%;
     background-color: #111;
@@ -51,11 +55,15 @@ div.MenuButtonImgCover{
 }
 
 #Animazione{
+    margin-top: 40px;
     display: none;
 }
 
-.MenuButtonImgCover:hover #Animazione{
-    display: block;
+.MenuButton:hover #Animazione{
+
+    width: 91px;
+    height: auto;
+    display:inline;
 }
 a:active H1{
     color: #000;

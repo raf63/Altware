@@ -1,0 +1,29 @@
+/* 
+    Created on : 21-gen-2014, 18.21.22
+    Author     : Andrea
+*/
+
+table.email{
+    width: 70%;
+    border: 1px white;
+    margin: 1px;
+    margin: auto;
+    padding: 10px;
+}
+.email tr{
+    padding: 10px;
+    
+}
+a{
+    
+    color: #555555;
+    
+}
+a:hover{
+    
+    color: #333333;
+    
+}
+a:active{
+    color: #999999;
+}
