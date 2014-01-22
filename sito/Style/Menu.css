@@ -30,6 +30,7 @@ Code for MENU Colum BLACK
     text-align: center;
     height: 95%;
     max-height: 300px;
+    
 
 }
 DIV#MenuButton1{
@@ -42,6 +43,9 @@ div.MenuButtonImgCover{
     margin-left: auto;
     margin-right: auto;
 
+    float: bottom;
+    clear: both;
+    
     width: 92px;
     height: 160px;
     background-image: url('../IMG/tab-menu.png');
@@ -49,6 +53,9 @@ div.MenuButtonImgCover{
     background-repeat: no-repeat;
 }
 #Internet{
+    margin-bottom: 0px;
+    top:100%;
+    float: bottom;
     width: 50px;
     height: auto;
 }
