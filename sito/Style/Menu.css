@@ -20,12 +20,15 @@ Code for MENU Colum BLACK
     min-height: 230px;
     float: right;
     display: block;
+    
     margin-left: 30px;
     margin-bottom: 1%;
     margin-top: 1%;
+    
     border: solid #0099FF 1px;
     color: #0099FF;
     text-align: center;
+    height: 95%;
     max-height: 300px;
 
 }
