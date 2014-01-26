@@ -7,15 +7,15 @@ include_once './HTML/LanguageDetect.php'; //Script for get language from browser
 /**
  * Title of page
  */
-$TITLE = $LANGUAGE_TITLE_INDEX; //Title
+$TITLE = $LANGUAGE_TITLE_PROGETTO2; //Title
 /**
  * Meta description of page this variable set Snippet in google.com
  */
-$METATAG_Description = $LANGUAGE_METADESC_INDEX;
+$METATAG_Description = $LANGUAGE_METADESC_PROJECT2;
 /**
  * Other element that must to be add to the head of then webpage.
  */
-$HEAD = '<link href="./Style/index.css" rel="stylesheet" type="text/css"> \n';
+$HEAD = '<link href="./Style/progetto.css" rel="stylesheet" type="text/css">';
 ?>
 <!DOCTYPE html>
 <html>
@@ -33,12 +33,7 @@ $HEAD = '<link href="./Style/index.css" rel="stylesheet" type="text/css"> \n';
             </div>
 
             <div id="Main">
-
-
-
                 <?php include_once './Views/index.php'; ?>
-
-
             </div>
 
 
