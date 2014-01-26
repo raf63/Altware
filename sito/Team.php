@@ -12,7 +12,7 @@ $HEAD  = '        <link href="Style/Team.css" rel="stylesheet" type="text/css">'
 <!DOCTYPE html>
 <html>
 
-    <?php    include_once './Views/Shered/Head.php';?>
+    <?php    include_once './HTML/Head.php';?>
     
     <body>
         <div id="contentet">

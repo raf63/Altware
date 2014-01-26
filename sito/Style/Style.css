@@ -46,4 +46,99 @@ img#Logo{
     text-align: center;
 }
 
+/*
+Css of Menu
+*/
+
+DIV#Menu{
+    width: 500px;
+    float: right;
+    height: 100%;
+}
+
+
+/*
+Code for MENU Colum BLACK
+*/
+.MenuButton{
+    font-size: 60%;
+    background-color: #111;
+    width: 100px;
+    min-height: 230px;
+    float: right;
+    display: block;
+    
+    margin-left: 30px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    
+    border: solid #0099FF 1px;
+    color: #0099FF;
+    text-align: center;
+    height: 95%;
+    max-height: 300px;
+    
+
+}
+DIV#MenuButton1{
+
+    margin-right: 30px;
+
+}
+
+div.MenuButtonImgCover{
+    margin-left: auto;
+    margin-right: auto;
+
+    float: bottom;
+    clear: both;
+    
+    width: 92px;
+    height: 160px;
+    background-image: url('../IMG/tab-menu.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#Internet{
+    margin-bottom: 0px;
+    top:100%;
+    float: bottom;
+    width: 50px;
+    height: auto;
+}
+
+.MenuButton H1,p{
+    margin: 0px;
+}
+
+#Animazione{
+    margin-top: 40px;
+    display: none;
+}
+
+.MenuButton:hover #Animazione{
+
+    width: 91px;
+    height: auto;
+    display:inline;
+}
+a:active H1{
+    color: #000;
+}
+
+/*
+Css of main part
+*/
+
+#Main{
+    margin-top: 3%;
+    
+}
+
+#Main img{
+    
+    width: 80%;
+    height: auto;
+    
+}
 

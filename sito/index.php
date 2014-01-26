@@ -12,7 +12,7 @@ $HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css">'; //Othe
 <!DOCTYPE html>
 <html>
 
-    <?php    include_once './Views/Shered/Head.php';?>
+    <?php    include_once './HTML/Head.php';?>
     
     <body>
         <div id="contentet">
@@ -30,6 +30,6 @@ $HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css">'; //Othe
 
 
         </div>
-         <?php        include './Views/Shered/foot.html';?>
+         <?php        include './HTML/foot.html';?>
     </body>
 </html>

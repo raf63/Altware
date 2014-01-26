@@ -12,7 +12,7 @@ $HEAD  = '        <link href="Style/email.css" rel="stylesheet" type="text/css">
 <!DOCTYPE html>
 <html>
 
-    <?php    include_once './Views/Shered/Head.php';?>
+    <?php    include_once './HTML/Head.php';?>
     
     <body>
         <div id="contentet">
@@ -32,6 +32,6 @@ $HEAD  = '        <link href="Style/email.css" rel="stylesheet" type="text/css">
 
 
         </div>
-         <?php        include './Views/Shered/foot.html';?>
+         <?php        include './HTML/foot.html';?>
     </body>
 </html>
