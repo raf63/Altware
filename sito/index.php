@@ -2,12 +2,21 @@
 /*
  * Header of page
  */
-include_once './HTML/LanguageDetect.php';
+
+include_once './HTML/LanguageDetect.php';//Script for get language from browser default:English
 /**
  * Title of page
  */
+
 $TITLE = $LANGUAGE_TITLE_INDEX; //Title
-$HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css">'; //Other element that must be add in the head of the Document.
+/**
+ * Meta description of page this variable set Snippet in google.com
+ */
+$METATAG_Description=$LANGUAGE_METADESC_INDEX;
+/**
+ * Other element that must to be add to the head of then webpage.
+ */
+$HEAD='<link href="./Style/index.css" rel="stylesheet" type="text/css"> <br>'; 
 ?>
 <!DOCTYPE html>
 <html>
