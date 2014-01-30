@@ -33,7 +33,7 @@ $HEAD = '<link href="./Style/progetto.css" rel="stylesheet" type="text/css">';
             </div>
 
             <div id="Main">
-                <?php include_once './Views/index.php'; ?>
+                <?php include_once './Views/proj_3.php'; ?>
             </div>
 
 
